@@ -9,3 +9,8 @@
 |nome| Nome do invocador|
 |nivel| Nível do invocador|
 |elo| Ranking competitivo do invocador|
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
