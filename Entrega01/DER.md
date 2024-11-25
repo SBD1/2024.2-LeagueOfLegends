@@ -4,9 +4,7 @@
 
 - **Invocador**
     <table>
-    <tr>
-    <td>id_invocador (PK): Identificador único do invocador.</td>
-    <td> nome: Nome do invocador.</td>
-    <td>nivel: Nível do invocador.</td>
-    </tr>
+    <tr>id_invocador (PK): Identificador único do invocador.</tr>
+    <tr> nome: Nome do invocador.</td>
+    <tr>nivel: Nível do invocador.</tr>
     </table>
