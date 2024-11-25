@@ -3,14 +3,12 @@
 ## 1. Entidades
 
 - **Invocador**
-| First Header  | Second Header |
-| ------------- | ------------- |
-|id_invocador (PK)|Identificador único do invocador|
-|nome| Nome do invocador|
-|nivel| Nível do invocador|
-|elo| Ranking competitivo do invocador|
+- id_campeao (PK): Identificador único do campeão.
+- nome: Nome do campeão.
+- vida: Atributo de vida do campeão.
+- dano_ataque: Atributo de dano de ataque.
+- poder_habilidade: Poder de habilidade.
+- armadura: Armadura do campeão.
+- resistencia_magica: Resistência mágica do campeão.
+- velocidade_ataque: Velocidade de ataque.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
