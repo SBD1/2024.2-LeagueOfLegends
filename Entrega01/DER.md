@@ -3,8 +3,8 @@
 ## 1. Entidades
 
 - **Invocador**
-    <table>
-    <tr>id_invocador (PK): Identificador único do invocador.</tr>
-    <tr> nome: Nome do invocador.</td>
-    <tr>nivel: Nível do invocador.</tr>
-    </table>
+| ------------- | ------------- |
+|id_invocador (PK)|Identificador único do invocador|
+|nome| Nome do invocador|
+|nivel| Nível do invocador|
+|elo| Ranking competitivo do invocador|
